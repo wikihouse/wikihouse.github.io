@@ -1,16 +1,16 @@
-![Wikihouse logo]( http://avatars3.githubusercontent.com/u/4091108?v=3&s=300 )  
+-![Wikihouse logo]( http://avatars3.githubusercontent.com/u/4091108?v=3&s=300 )  
 _[WikiHouse]( http://www.wikihouse.cc/ ) is an open source building system. Many designers, collaborating to make it simple for everyone to design, print and assemble beautiful, low-energy homes, customised to their needs._
 ***
 
 WikiHouse on GitHub
 ===
 
-<span style=display:none; >[View as web page]( http://wikihouse.github.io/viewer-experiments/index.html "view the files as apps." ) </span>  
+_<span style=display:none; >[View as web page]( http://wikihouse.github.io/index.html "view the files as apps." ) </span>_  
 
 [Viewer Experiments]( http://wikihouse.github.io/viewer-experiments/ )
 
 * View WikiHouse projects in 3D in your browser
-* All built using free, open source software you can re-use in your projects 
+* All viewers built using free, open source software you can re-use in your projects 
 
 
 [Plan File]( https://github.com/wikihouse/planfile )
