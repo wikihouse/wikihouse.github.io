@@ -19,6 +19,9 @@ WikiHouse on GitHub
 
 <input type=button value='Source code on GitHub' onclick=window.location.href='http://github.com/wikihouse/'; />
 
+### Support Us
+
+[Make a donation via PayPal]( http://www.wikihouse.cc/support/ )
 
 ###Copyright
 
