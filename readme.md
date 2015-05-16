@@ -9,18 +9,15 @@ WikiHouse on GitHub
 
 [Viewer Experiments]( http://wikihouse.github.io/viewer-experiments/ )
 
+* View WikiHouse projects in 3D in your browser
+* All built using free, open source software you can re-use in your projects 
+
+
 [Plan File]( https://github.com/wikihouse/planfile )
 
+* Action list from 2013
 
-<input type=button value='Source code on GitHub' onclick=window.location.href='http://github.com/wikihouse/viewer-experiments/tree/gh-pages/'; />
-
-### General Features
-
-* All work is [FOSS]( http://en.wikipedia.org/wiki/Free_and_open-source_software ) with an MIT license
-* Scripts are built around the popular [Three.js]( http://threejs.org ) JavaScript 3D library 
-	* Requires that your browser supports WebGL
-* All code is beginner or intermediate level - no rocket science here
-* Designed for you to play with
+<input type=button value='Source code on GitHub' onclick=window.location.href='http://github.com/wikihouse/'; />
 
 
 ###Copyright
